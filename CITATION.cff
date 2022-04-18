@@ -1,0 +1,10 @@
+
+message: "If you use this software, please cite it as below."
+authors:
+- family-names: "Akhirome"
+  given-names: "MObaseki"
+  orcid: "https://orcid.org/0000-0000-0000-0000"
+title: "My Honor's Thesis"
+version: 2.0.4
+date-released: 2022-18-04
+url: https://github.com/OGOba/HonorsThesis/
